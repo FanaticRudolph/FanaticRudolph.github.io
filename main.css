@@ -1,3 +1,35 @@
 h1{
-  color: #426493;
+  font-family: "Courier New", Courier, monospace;
+}
+body{
+  margin: 18;
+  padding: 18;
+  font-family: Georgia,serif;
+  backround-color: #FFFFF0;
+  color: #0d0d0d;
+}
+ul{
+  color: #595959;
+}
+.all_pink_things{
+  color: #A62967;
+  font-weight: bold;
+}
+.header2{
+  font-family: Arial, sans-serif;
+  font-size: 18pt;
+  background-color: #E2A6A6;
+  padding: 18;
+}
+#header1{
+  font-family: "Courier New";
+  text-align: center;
+  color: #E46767;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  background-color: #C4C4C4;
+}
+#one_green_thing{
+  color: #iC774E;
+  font-weight: bold;
 }
